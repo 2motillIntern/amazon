@@ -1,0 +1,42 @@
+/*form border*/
+
+fieldset{
+    border-radius: 3px;
+    border: 1.5px solid gray;
+    padding: 20px;
+    
+}
+
+/*Button Creation*/
+.btn{
+    background-color: gold;
+    color: black;
+    border-color: gray;
+}
+
+/*Create Amazon Button*/
+.btn2{
+    width: 20%;
+    box-shadow: gray;
+    border-radius: 5px;
+    padding: 8px 20px;
+    opacity: 1.0;
+    background-color: rgb(221, 218, 218);
+    color: black;
+    border-color: gray;
+}
+
+/*Footer*/
+footer{
+        position: center;
+        clear: both;
+        color: #ffffff;
+        background-color: rgb(75, 75, 75);
+        text-align:center;
+        height: 1px;
+        font-size: 80%;
+        margin-left:-50%;
+        margin-right:-50%:
+    }
+
+    
